@@ -103,6 +103,11 @@ main>section{
     color: rgba(114, 114, 114, 1);
     font-weight: 500;
 }
+#feature-section-title{
+    border-left:5px solid #FF900E ;
+    padding-left: 21px;
+    
+}
 .features-description{
     color: #727272;
 }
